@@ -26,7 +26,7 @@ A prototype web application designed for interactive warehouse location planning
 
 \* \*\*Speech Integration:\*\* Utilizes browser speech recognition (`SpeechRecognition`) and text-to-speech synthesis for hands-free command inputs and operational briefings.
 
-\* \*\*Used netlify.app:\*\* the clickable link for this website was made in collaboration with \*\*Netlify\*\*.
+\* \*\*Used netlify.app:\*\* The clickable link for this website was made in collaboration with \*\*Netlify\*\*.
 
 \## Built With
 
